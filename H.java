@@ -35,4 +35,8 @@ public class H implements E, F {
     public int cc() {
         return 39;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
