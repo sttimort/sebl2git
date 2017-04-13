@@ -27,4 +27,8 @@ public class H implements E, F {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
