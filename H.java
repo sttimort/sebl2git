@@ -31,4 +31,8 @@ public class H implements E, F {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public int cc() {
+        return 39;
+    }
 }
