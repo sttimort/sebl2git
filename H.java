@@ -27,24 +27,4 @@ public class H implements E, F {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public void aa() {
-        System.out.println("Hello world!");
-    }
-
-    public int cc() {
-        return 39;
-    }
-
-    public long dd() {
-        return 99999;
-    }
-
-    public Object pp() {
-        return this;
-    }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
 }
