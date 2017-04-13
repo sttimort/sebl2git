@@ -59,4 +59,8 @@ public class H extends null implements E, F {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
