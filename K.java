@@ -1,4 +1,4 @@
-public interface K {
+public class K extends null {
 
     java.lang.Class qq();
 

@@ -1,4 +1,4 @@
-public class H implements E, F {
+public class H extends null implements E, F {
 
     private long a = 1234;
 
@@ -28,16 +28,16 @@ public class H implements E, F {
         System.out.println(getClass().getName());
     }
 
+    public long dd() {
+        return 100500;
+    }
+
     public void aa() {
         System.out.println("Hello world!");
     }
 
     public int cc() {
         return 39;
-    }
-
-    public long dd() {
-        return 99999;
     }
 
     public Object pp() {
