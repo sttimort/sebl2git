@@ -51,4 +51,12 @@ public class H extends null implements E, F {
     public byte oo() {
         return 2;
     }
+
+    public Object rr() {
+        return null;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
